@@ -26,7 +26,7 @@ html, body
 
 .navbar:hover
 {
-    width: 10%;
+    width: 15%;
     height: 50%;
     background: #3e3e3eef;
 }
@@ -59,6 +59,25 @@ html, body
     color: rgba(255, 255, 255, 0);
 
     transition: 0.2s;
+}
+
+.date
+{
+    padding-left: 2%;
+    display: inline;
+
+    font-size: smaller;
+    font-weight: 200;
+    color: rgba(255, 255, 255, 0);
+
+    transition: 0.2s;
+}
+
+.navbar:hover .date
+{
+    font-size: smaller;
+    font-weight: 200;
+    color: rgb(111, 111, 111);
 }
 
 .navbar:hover ul a
