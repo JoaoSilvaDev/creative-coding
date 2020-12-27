@@ -2,7 +2,8 @@
 let sketches = [
     "H1rwYek_7",
     "0QKMZFOHy",
-    "dDOg8Fwy3"];
+    "dDOg8Fwy3",
+    "aGyGcUmWt"];
 
 function onClick(index)
 {
