@@ -3,8 +3,7 @@ let sketches = [
     "H1rwYek_7",
     "0QKMZFOHy",
     "dDOg8Fwy3",
-    "aGyGcUmWt",
-    "LugOWEbA4"];
+    "aGyGcUmWt"];
 
 function onClick(index)
 {
